@@ -23,3 +23,5 @@ python面试：https://github.com/taizilongxu/interview_python
 python基础：https://github.com/TwoWater/Python
 
 Linx：https://github.com/jaywcjlove/linux-command
+
+技巧：https://github.com/skywind3000/awesome-cheatsheets
