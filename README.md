@@ -21,3 +21,5 @@ mysql优化：https://my.oschina.net/u/4234147/blog/4337178
 python面试：https://github.com/taizilongxu/interview_python
 
 python基础：https://github.com/TwoWater/Python
+
+Linx：https://github.com/jaywcjlove/linux-command
