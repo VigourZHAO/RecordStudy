@@ -23,6 +23,7 @@ python面试：https://github.com/taizilongxu/interview_python
 python基础：1-https://github.com/TwoWater/Python
 
            2-https://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html
+           3-https://github.com/jackzhenguo/python-small-examples
 
 Linx：https://github.com/jaywcjlove/linux-command
 
