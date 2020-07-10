@@ -30,3 +30,5 @@ Linx：https://github.com/jaywcjlove/linux-command
 技巧：https://github.com/skywind3000/awesome-cheatsheets
 
 HTTP:https://segmentfault.com/a/1190000013056786
+
+python JSON：https://my.oschina.net/AnnaWu/blog/4346330
