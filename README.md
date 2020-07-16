@@ -27,6 +27,8 @@ python基础：1-https://github.com/TwoWater/Python
 
 Linx：https://github.com/jaywcjlove/linux-command
 
+           https://www.linuxprobe.com/
+
 技巧：https://github.com/skywind3000/awesome-cheatsheets
 
 HTTP:https://segmentfault.com/a/1190000013056786
